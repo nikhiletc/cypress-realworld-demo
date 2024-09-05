@@ -74,6 +74,17 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "SURxg3o0i",
+      "uuid": "eba58885-7c36-4efb-8667-102c2096f0b5",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$fJk9qPjpcF9BOYG0i3EVy.ZfNlF9/1/Umo4KbPyA0TO.HAplPkF5S",
+      "balance": 0,
+      "createdAt": "2024-09-05T17:25:29.743Z",
+      "modifiedAt": "2024-09-05T17:25:29.743Z"
     }
   ],
   "contacts": [
